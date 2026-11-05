@@ -10,6 +10,28 @@ The dataset covers **2016 through February 2021**, with particular attention to 
 
 The final deliverable is an interactive Power BI report that combines business performance monitoring with strategic recommendations.
 
+Dashboard Screenshots
+
+1. Project Cover
+![Global Electronics Project Cover](screenshots/Cover.png)
+
+2. Executive Sales Overview
+![Executive Sales Overview](screenshots/Overview.png)
+
+3. Sales Performance Insights
+![Sales Performance Insights](screenshots/Sales.png)
+
+4. Product Analysis
+![Product Analysis Dashboard](screenshots/Product.png)
+
+ 5. Customer Analysis
+![Customer Analysis Dashboard](screenshots/Customer.png)
+
+6. Store Performance
+![Store Performance Dashboard](screenshots/Store.png)
+
+7. Business Insights & Recommendations
+![Business Insights and Recommendations](screenshots/Recommendations.png)
 Business Problem
 
 Global Electronics experienced a significant decline in revenue in 2020 following several years of growth.
@@ -145,14 +167,6 @@ Technical Skills Demonstrated
 - Business insight generation
 - Data storytelling
 
-Project Screenshots
-1. Cover Page
-2. Executive Sales Overview
-3. Sales Performance Insights
-4. Product Analysis
-5. Customer Analysis
-6. Store Performance
-7. Business Insights & Recommendations
 
 Project Files
 
