@@ -183,9 +183,6 @@ The analysis identified changes in revenue, customer participation, product perf
 
 It strengthened my skills in data modeling, DAX, dashboard design, and communicating analytical results to business stakeholders.
 
-Dashboard Access
-
-Live Report: https://app.powerbi.com/groups/me/reports/c473a914-0ade-48ad-93ad-8127c011d869/e7f8550b7a94a990838b?experience=power-bi
 
 Author: Mercy Nduku
 
